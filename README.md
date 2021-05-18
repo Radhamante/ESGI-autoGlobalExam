@@ -5,11 +5,13 @@ Script permettant de répondre automatiquement à tous les exercices de type `re
 ![Screenshot from 2021-05-18 22-26-47](https://user-images.githubusercontent.com/58041359/118719097-52a9e280-b828-11eb-8d54-d87251d4fb8f.png)
 ![Screenshot from 2021-05-18 22-26-57](https://user-images.githubusercontent.com/58041359/118719105-5473a600-b828-11eb-93b6-abda194b0311.png)
 
+Les actions sont faites toutes les minutes. 
+Pour les gros tests, lancer le test à la main
 
 ## Démarage
 
 1) Copier le contenu de  `console.js`
-2) Aller sur `globalExam`
+2) Aller sur `globalExam` dans la partie [Mon parcours actif](https://exam.global-exam.com/user-plannings/165070)
 3) Appuyer sur `f12`
 4) Aller dans l'onglet `console` du panneau venant de s'ouvrir.
 5) Coller le code ici
