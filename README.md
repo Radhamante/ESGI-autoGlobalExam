@@ -8,6 +8,7 @@ Script permettant de répondre automatiquement à tous les exercices de type `re
 Les actions sont faites toutes les minutes par le script. Une action = une page.
 
 Pour les gros tests, lancer le test à la main.
+
 ![image](https://user-images.githubusercontent.com/58041359/118788458-1ad88480-b894-11eb-815a-964caa6daaca.png)
 
 ## Démarage
