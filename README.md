@@ -1,3 +1,4 @@
+
 # autoGlobalExam
 
 Script permettant de répondre automatiquement à tous les exercices de type `reading` et `listening`.
@@ -17,11 +18,10 @@ Pour les gros tests, lancer le test à la main.
 2) Aller sur [globalExam](https://exam.global-exam.com/user-plannings) dans la partie Mon parcours actif.
 3) Appuyer sur `f12`
 4) Aller dans l'onglet `console` du panneau venant de s'ouvrir.
-5) Coller le code ici
-
-![Screenshot from 2021-05-18 22-25-36](https://kapwi.ng/c/kDPergCd)
-
+5) Coller le code
 7) Appuyer sur la touche `entrer` pour lancer le script.
+
+![final_60a80f652eee4e01059c57ae_236556](https://user-images.githubusercontent.com/58041359/119191805-6bf89c00-ba7f-11eb-94f9-9e9cbdfa03fe.gif)
 
 ## Arret
 
