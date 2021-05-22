@@ -3,8 +3,9 @@
 
 Script permettant de répondre automatiquement à tous les exercices de type `reading` et `listening`.
 
-![image](https://user-images.githubusercontent.com/58041359/118719105-5473a600-b828-11eb-93b6-abda194b0311.png)
-![image](https://user-images.githubusercontent.com/58041359/118719097-52a9e280-b828-11eb-8d54-d87251d4fb8f.png)
+![Screenshot_2021-05-22 Mon parcours actif](https://user-images.githubusercontent.com/58041359/119222756-3773f700-baf6-11eb-9b81-1d75b954782e.png)
+![Screenshot_2021-05-22 Mon parcours actif(1)](https://user-images.githubusercontent.com/58041359/119222759-393dba80-baf6-11eb-9a59-8681828e2884.png)
+
 
 Les actions sont faites toutes les minutes par le script. Une action = une page.
 
