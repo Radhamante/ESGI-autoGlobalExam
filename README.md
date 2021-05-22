@@ -4,7 +4,8 @@
 Script permettant de répondre automatiquement à tous les exercices de type `reading` et `listening`.
 
 ![Reading](https://user-images.githubusercontent.com/58041359/119222759-393dba80-baf6-11eb-9a59-8681828e2884.png)
-![Listening](https://user-images.githubusercontent.com/58041359/119222756-3773f700-baf6-11eb-9b81-1d75b954782e.png)
+![Listening](https://user-images.githubusercontent.com/58041359/119222813-73a75780-baf6-11eb-9529-c86cbc87701f.png)
+
 
 Les actions sont faites toutes les minutes par le script. Une action = une page.
 
