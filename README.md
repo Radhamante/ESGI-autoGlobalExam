@@ -18,7 +18,7 @@ Pour les gros tests, lancer le test à la main.
 2) Aller sur [globalExam](https://exam.global-exam.com/user-plannings) dans la partie Mon parcours actif.
 3) Appuyer sur `f12`
 4) Aller dans l'onglet `console` du panneau venant de s'ouvrir.
-5) Coller le code
+5) Coller le code ( Vous pouvez changer le temps entre 2 actions en modifiant la premier ligne )
 7) Appuyer sur la touche `entrer` pour lancer le script.
 
 ![final_60a80f652eee4e01059c57ae_236556](https://user-images.githubusercontent.com/58041359/119191805-6bf89c00-ba7f-11eb-94f9-9e9cbdfa03fe.gif)
