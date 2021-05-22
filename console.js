@@ -1,3 +1,5 @@
+const timer = 60 // En seconde
+
 function $x(path){
  var xpath = document.evaluate(path, document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
    var temp = [];
@@ -59,4 +61,4 @@ const f = async () => {
         $x("//a[contains(@href,'user-pla')]")[0].click()
     }
 }
-const i = setInterval(await f,60000)
+const i = setInterval(await f,timer * 1000)
