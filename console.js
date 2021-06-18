@@ -1,4 +1,4 @@
-const timer = 60 // En seconde
+const timer = 120 // En seconde
 
 function $x(path){
  var xpath = document.evaluate(path, document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
