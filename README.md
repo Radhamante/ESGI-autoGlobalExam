@@ -17,7 +17,7 @@ Pour les gros tests, lancer le test à la main.
 
 1) Copier le contenu de  [console.js](https://raw.githubusercontent.com/Radhamante/autoGlobalExam/main/console.js).
 2) Aller sur [globalExam](https://exam.global-exam.com/user-plannings) dans la partie Mon parcours actif.
-3) Appuyer sur `f12`
+3) Appuyer sur `f12` ou `fn + f12`
 4) Aller dans l'onglet `console` du panneau venant de s'ouvrir.
 5) Coller le code ( Vous pouvez changer le temps entre 2 actions en modifiant la premier ligne )
 7) Appuyer sur la touche `entrer` pour lancer le script.
