@@ -8,7 +8,7 @@ function $x(path){
    }
    return temp;
 }
-const f = async () => {
+const intervalAction = async () => {
     $x("//label[contains(.,'A')]").forEach(e => {
         e.click()
     });
@@ -61,4 +61,4 @@ const f = async () => {
         $x("//a[contains(@href,'user-pla')]")[0].click()
     }
 }
-const i = setInterval(await f,timer * 1000)
+const interval = setInterval(await intervalAction,timer * 1000)
